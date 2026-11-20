@@ -1,2 +1,4 @@
-# EXPLORING-AI-LIKE-MAD
-THIS repo includes whatever experiments/exploration am doing with ai ,,building ai agents testing ,APIs ,,harness knowledge graph ,sandbox and blaaaaaaaaaaaaaaaaaaaaaaaaaa blaaaaaaaaaaa
+# EXPLORING-AI-LIKE-MAD(FOR COMMUNITY)
+
+ I'll share all cool AI stuffs(latest/ongoing) am exploring.
+ IF YOU WANT to keep YOURSELF up to date then STAR⭐ it(NOTE : keep visiting regularlly I'll try to add something new daily.
